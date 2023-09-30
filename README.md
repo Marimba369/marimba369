@@ -1,4 +1,4 @@
-## #include < Who be to see >
+## #include < Who is seeing >
 ## printf("Hello World!!! welcome to my GitHub 🫵");
 
 ### About me:
