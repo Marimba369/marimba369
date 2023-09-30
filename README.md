@@ -1,11 +1,12 @@
-# print("Hello World!!! welcome to my GitHub 🫵")
+## #include < Who be to see >
+## printf("Hello World!!! welcome to my GitHub 🫵");
 
 ### About me:
 <div>
-    My name is Leonel Caetano, I'm a student at the University of Évora in Portugal, I'm a C developer, at the moment I study Python and databases, I'm interested in Data Engineering and Data Science, I love mathematics and programming for me it's the best combination That's why I chose the world of data
+    My name is Leonel Caetano, I'm a student at the University of Évora in Portugal and a C developer.Currently I'm studying Python and databases. I have interests in Data Engineering and Data Science fields. I also love mathematics and programming and find it to be a great combination which is why I chose the world of data.
 </div>
 
-### How find me
+### How to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-figueira-caetano-947b31259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdjrGCX9VSj6Jei%2FQz%2F8kzg%3D%3D)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marimbacode369/)
