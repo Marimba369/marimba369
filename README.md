@@ -1,6 +1,5 @@
-## #include < Who be to see >
-## printf("Hello World!!! welcome to my GitHub 🫵");
-
+## #include < Who is seeing >
+### printf("Hello World!!! welcome to my GitHub 🫵");
 ### About me:
 <div>
     My name is Leonel Caetano, I'm a student at the University of Évora in Portugal and a C developer.Currently I'm studying Python and databases. I have interests in Data Engineering and Data Science fields. I also love mathematics and programming and find it to be a great combination which is why I chose the world of data.
