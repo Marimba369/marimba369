@@ -1,9 +1,22 @@
-## #include < Who is seeing >
-### printf("Hello World!!! welcome to my GitHub 🫵");
-### About me:
-<div>
-    My name is Leonel Caetano, I'm a student at the University of Évora in Portugal and a C developer.Currently I'm studying Python and databases. I have interests in Data Engineering and Data Science fields. I also love mathematics and programming and find it to be a great combination which is why I chose the world of data.
+### Marimba (Leonel)
+**Software Developer | Performance and Data Engineering Enthusiast | Content Creator**
+
+- **Profession/Title**: Software Developer passionate about performance.
+
+- **Passions/Interests**: Fascinated by the interconnection of systems and mathematics, dedicated to exploring how different components come together to form innovative solutions.
+
+- **Content and Engagement**: Currently producing educational content on YouTube and sharing insights in my LinkedIn Newsletter, where I break down complex concepts.
+
+- **Mathematics and Programming**: Spending time on mathematical calculations and programming, bringing new abstractions and exploring programming as an advanced form of mathematics, similar to Physics and other sciences.
+
+- **Data Engineering and Data Science**: Studying Data Engineering with the goal of entering the field of Data Science, always looking for new opportunities.
+
+- **Data Engineering Enthusiast**: Deeply interested in Data Engineering, continuously exploring ways to optimize and innovate in this field.
+
+- **Connect**: Open to new opportunities and collaborations. Check out my social media profiles to learn more!
+
 </div>
+
 
 ### How to find me
 
