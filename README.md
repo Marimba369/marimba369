@@ -1,8 +1,6 @@
 ### > Hello my name is Leonel Caetano (Marimba)
 **Software Developer | Performance and Data Engineering Enthusiast | Content Creator**
 
-- **Profession/Title**: Software Developer passionate about performance.
-
 - **Passions/Interests**: Fascinated by the interconnection of systems and mathematics, dedicated to exploring how different components come together to form innovative solutions.
 
 - **Content and Engagement**: Currently producing educational content on YouTube and sharing insights in my LinkedIn Newsletter, where I break down complex concepts.
