@@ -1,4 +1,4 @@
-### > Hello my name is Leonel Caetano (Marimba)
+###  Hello my name is Leonel Caetano (Marimba)
 **Software Developer | Performance and Data Engineering Enthusiast | Content Creator**
 
 - **Passions/Interests**: Fascinated by the interconnection of systems and mathematics, dedicated to exploring how different components come together to form innovative solutions.
